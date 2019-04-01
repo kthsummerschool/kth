@@ -17,9 +17,9 @@ header:
   overlay_image: /assets/images/kth_banner.png
   overlay_filter: rgba(255, 0, 0, 0.5)
   caption: "KTH - Royal Institute of technology - (https://www.kth.se/en)"
-  actions:
+  #actions:
   #  - label: "More Info"
-      url: "https://www.kth.se/en"
+  #    url: "https://www.kth.se/en"
 
 intro: 
   - excerpt: 'WHEN: 20/05/2019 To 24/05/2019 <br> WHERE: KTH - Royal Institute of technology, Stockholm, Sweden'
