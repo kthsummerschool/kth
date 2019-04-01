@@ -16,13 +16,13 @@ excerpt: " Game technologies
 header:
   overlay_image: /assets/images/kth_banner.png
   overlay_filter: rgba(255, 0, 0, 0.5)
-  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "KTH Royal Institute of technology - (https://kth.se)"
   #actions:
   #  - label: "More Info"
   #    url: "https://unsplash.com"
 
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'When: 20/05/2019 24/05/2019'
 feature_row:
   - image_path: assets/images/KTHLogo.png
     alt: "placeholder image 1"
