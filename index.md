@@ -24,7 +24,7 @@ header:
 intro: 
   - excerpt: 'WHEN: **20 May 2019** To **24 May 2019** <br> WHERE: **KTH - Royal Institute of Technology, Stockholm, Sweden**'
 feature_row:
-  - image_path: assets/images/KTHLogo.png
+  - image_path: assets/images/programs.jpg
     alt: "Program"
     title: "Program"
     excerpt: "Details about the program of the summer school."
@@ -47,7 +47,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: assets/images/KTHLogo.png
   - image_path: /assets/images/animatas-logo.png
     alt: "ANIMATAS"
     title: "ANIMATAS"
