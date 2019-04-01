@@ -3,6 +3,7 @@ title: Program
 ---
 
  | Monday 20 | Tuesday 21	| Wednesday 22 | Thursday 23
+ --- | --- | --- | --- | ---
 09:15-10:15	| Arrival	| Keynote (Carol?)	| Keynote (Julien)	| Keynote  (Furhat - check speaker)
 10:15-10:30	| - |	Coffee Break | Coffee Break	| Coffee Break
 10:30-12:00	| Introduction | Session	| Activity	"Presentation methods
