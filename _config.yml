@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "KTH & ANIMATAS"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/KTHLogo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "KTH Summer school on visualization and virtual characters for computer games"
   location         : "Stockholm, Sweden"
   email            :
