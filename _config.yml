@@ -24,6 +24,13 @@ kramdown:
   use_coderay: false
   #enable_coderay: false
 
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 # Site owner
 owner:
