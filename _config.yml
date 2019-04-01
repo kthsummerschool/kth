@@ -292,6 +292,4 @@ defaults:
       comments: # true
       share: true
       related: true
-      header:
-        image: /assets/images/kth_banner.png
-        image_description: "A description of the image"
+      
