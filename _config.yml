@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "KTH Summer School"
+title                    : "Summer School on Visualization & Virtual Characters For Computer Games"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "KTH & ANIMATAS"
 description              : "KTH Summer school on visualization and virtual characters for computer games"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
