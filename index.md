@@ -29,7 +29,7 @@ feature_row:
     alt: "Program"
     title: "Program"
     excerpt: "Details about the program of the summer school."
-    url: "{% link _pages/document.md %}"
+    url: "{% link _pages/program.md %}"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/speakers.jpg
