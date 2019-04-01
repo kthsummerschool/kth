@@ -17,6 +17,8 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "en-US"
 title                    : "Summer School on Visualization & Virtual Characters For Computer Games"
+header                   :
+  image                  : "/assets/images/kth_banner.png"
 title_separator          : "-"
 name                     : "KTH & ANIMATAS"
 description              : "KTH Summer school on visualization and virtual characters for computer games"
