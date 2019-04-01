@@ -54,6 +54,13 @@ feature_row2:
     url: "http://www.animatas.eu/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    
+    gh | hjj | jkj |
+    ---| --- | --- |
+    hgh | dfgdd | sdfsfsd
+    dsfsf | sdfs
+    
+    
 ---
 
 {% include feature_row id="intro" type="center" %}
