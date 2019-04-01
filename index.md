@@ -46,11 +46,11 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/KTHLogo.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+  - image_path: /assets/images/animatas-logo.png
+    alt: "ANIMATAS"
+    title: "ANIMATAS"
+    excerpt: 'ANIMATAS is a MSCA – Marie Skłodowska-Curie Actions project that aims to give researchers the necessary skills and international experience for a successful career either in the public or the private sector. The project is an Innovative Training Network (MSCA ITN) implemented by a partnership high profile universities, research institutions and industrial research partners that are located in 8 different countries.'
+    url: "http://animatas.eu"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
