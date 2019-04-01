@@ -116,7 +116,7 @@ author:
       url: "mailto:cpeters@kth.se"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "http://www.csc.kth.se/~chpeters/ESAL/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
