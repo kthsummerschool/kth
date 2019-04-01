@@ -15,7 +15,7 @@ excerpt: " Game technologies
 
 header:
   overlay_image: /assets/images/kth_banner.png
-  overlay_filter: rgba(255, 0, 0, 0.5)
+  overlay_filter: rgba(0, 0, 255, 0.5)
   caption: "[KTH - Royal Institute of Technology](https://www.kth.se/en){:target='_blank'}"
   #actions:
   #  - label: "More Info"
@@ -25,7 +25,6 @@ intro:
   - excerpt: 'WHEN: **20 May 2019** To **24 May 2019** <br> WHERE: **KTH - Royal Institute of Technology, Stockholm, Sweden**'
 feature_row:
   - image_path: assets/images/programs.jpg
-    overlay_filter: rgba(255, 0, 0, 0.5)
     alt: "Program"
     title: "Program"
     excerpt: "Details about the program of the summer school."
