@@ -50,7 +50,7 @@ feature_row2:
     alt: "ANIMATAS"
     title: "ANIMATAS"
     excerpt: 'ANIMATAS is a MSCA – Marie Skłodowska-Curie Actions project that aims to give researchers the necessary skills and international experience for a successful career either in the public or the private sector. The project is an Innovative Training Network (MSCA ITN) implemented by a partnership high profile universities, research institutions and industrial research partners that are located in 8 different countries.'
-    url: "http://www.animatas.eu/"{:target="_blank"}
+    url: "http://www.animatas.eu/target='_blank'"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
