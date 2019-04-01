@@ -29,7 +29,7 @@ feature_row:
     alt: "Program"
     title: "Program"
     excerpt: "Details about the program of the summer school."
-    url: "_pages/program.md"
+    url: "/program/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/speakers.jpg
@@ -37,14 +37,14 @@ feature_row:
     alt: "Invited speakers"
     title: "Invited speakers"
     excerpt: "List of the invited speakers and their talks."
-    url: "#test-link"
+    url: "/speakers/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/venue.jpg
     alt: "Venue"
     title: "Venue"
     excerpt: "Information about the places and how you can reach them."
-    url: "#test-link"
+    url: "/venue/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
