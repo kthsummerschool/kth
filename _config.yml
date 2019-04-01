@@ -26,7 +26,7 @@ repository               : "kthsummerschool/kthsummerschool.github.io" # GitHub 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/KTHLogo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
- breadcrumbs            : # true # true, false (default)
+ breadcrumbs             : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -270,15 +270,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
-excerpt: "This post should [...]"
-header:
-  overlay_image: /assets/images/kth_banner.png
-  overlay_filter: rgba(255, 0, 0, 0.5)
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
 
 # HTML Compression
 # - http://jch.penibelst.de/
