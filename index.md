@@ -39,7 +39,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/KTHLogo.png
+  - image_path: /assets/images/venue.jpg
     alt: "Venue"
     title: "Venue"
     excerpt: "Information about the places and how you can reach them."
