@@ -22,23 +22,29 @@ header:
   #    url: "https://www.kth.se/en"
 
 intro: 
-  - excerpt: 'WHEN: 20 May 2019 To 24 May 2019 <br> WHERE: KTH - Royal Institute of Technology, Stockholm, Sweden'
+  - excerpt: 'WHEN: **20 May 2019** To **24 May 2019** <br> WHERE: **KTH** - Royal Institute of Technology, **Stockholm**, **Sweden**'
 feature_row:
   - image_path: assets/images/KTHLogo.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/KTHLogo.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "Program"
+    title: "Program"
+    excerpt: "Details about the program of the summer school..."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/KTHLogo.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    image_caption: "Invited speakers"
+    alt: "Invited speakers"
+    title: "Invited speakers"
+    excerpt: "List of the invited speakers and their talks' summary."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/KTHLogo.png
+    title: "Venue"
+    excerpt: "Information about the places and how you can reach them."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/KTHLogo.png
     alt: "placeholder image 2"
