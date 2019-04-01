@@ -31,7 +31,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/KTHLogo.png
+  - image_path: /assets/images/speakers.jpg
     #image_caption: "Invited speakers"
     alt: "Invited speakers"
     title: "Invited speakers"
