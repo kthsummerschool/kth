@@ -24,7 +24,7 @@ header:
 intro: 
   - excerpt: 'WHEN: **20 May 2019** To **23 May 2019** <br> WHERE: **KTH - Royal Institute of Technology, Stockholm, Sweden**'
 feature_row:
-  - image_path: assets/images/programs.jpg
+  - image_path: assets/images/programs.png
     width: 50%
     alt: "Program"
     title: "Program"
@@ -32,7 +32,7 @@ feature_row:
     url: "/program/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/speakers.jpg
+  - image_path: /assets/images/speakers.png
     #image_caption: "Invited speakers"
     alt: "Invited speakers"
     title: "Invited speakers"
@@ -40,7 +40,7 @@ feature_row:
     url: "/speakers/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/venue.jpg
+  - image_path: /assets/images/venue.png
     alt: "Venue"
     title: "Venue"
     excerpt: "Information about the places and how you can reach them."
