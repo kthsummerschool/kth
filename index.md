@@ -5,11 +5,20 @@ excerpt: "
 
 
 - Game technologies
+
+
 - Character animation and perception
+
+
 - Mobile and multi-agent systems
+
+
 - Virtual and augmented reality
+
+
 - Project design and prototyping
-- + blog and presentation, ethics, gender"
+<br>
++ blog and presentation, ethics, gender"
 
 header:
   overlay_image: /assets/images/kth_banner.png
