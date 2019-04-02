@@ -15,10 +15,10 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Summer School on Visualization & Virtual Characters For Computer Games"
+title                    : "Summer School on Virtual Characters & Computer Game Technologies"
 title_separator          : "-"
 name                     : "KTH & ANIMATAS"
-description              : "KTH Summer school on visualization and virtual characters for computer games"
+description              : "KTH Summer school on virtual characters & computer game technologies"
 url                      : "https://kthsummerschool.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kthsummerschool/kthsummerschool.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "KTH & ANIMATAS"
   avatar           : "/assets/images/KTHLogo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "KTH Summer school on visualization and virtual characters for computer games"
+  bio              : "KTH Summer school on virtual characters & computer games technologies"
   location         : "Stockholm, Sweden"
   email            :
   links:
