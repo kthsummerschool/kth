@@ -1,17 +1,15 @@
 ---
 layout: splash
 author_profile: true
-excerpt: " Game technologies
-<br>
- Character animation and perception
-<br>
- Mobile and multi-agent systems
-<br>
- Virtual and augmented reality
-<br>
- Project design and prototyping
-<br>
-+ blog and presentation, ethics, gender"
+excerpt: "
+
+
+- Game technologies
+- Character animation and perception
+- Mobile and multi-agent systems
+- Virtual and augmented reality
+- Project design and prototyping
+- + blog and presentation, ethics, gender"
 
 header:
   overlay_image: /assets/images/kth_banner.png
@@ -22,7 +20,7 @@ header:
   #    url: "https://www.kth.se/en"
 
 intro: 
-  - excerpt: 'WHEN: **20 May 2019** To **24 May 2019** <br> WHERE: **KTH - Royal Institute of Technology, Stockholm, Sweden**'
+  - excerpt: 'WHEN: **20 May 2019** To **23 May 2019** <br> WHERE: **KTH - Royal Institute of Technology, Stockholm, Sweden**'
 feature_row:
   - image_path: assets/images/programs.jpg
     alt: "Program"
