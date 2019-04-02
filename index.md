@@ -13,7 +13,7 @@ excerpt: "
 
 header:
   overlay_image: /assets/images/kth_banner.png
-  overlay_filter: rgba(255, 0, 0, 0.5)
+  overlay_filter: rgba(0, 0, 0, 0.5)
   caption: "[KTH - Royal Institute of Technology](https://www.kth.se/en){:target='_blank'}"
   #actions:
   #  - label: "More Info"
