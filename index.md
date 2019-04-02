@@ -33,6 +33,7 @@ intro:
   - excerpt: 'WHEN: **20 May 2019** To **23 May 2019** <br> WHERE: **KTH - Royal Institute of Technology, Stockholm, Sweden**'
 feature_row:
   - image_path: assets/images/programs.jpg
+    width: 50%
     alt: "Program"
     title: "Program"
     excerpt: "Details about the program of the summer school."
