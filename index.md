@@ -1,7 +1,8 @@
 ---
 layout: splash
 author_profile: true
-excerpt: "Game technologies
+excerpt: "<br>
+Game technologies
 <br>
 Character animation and perception
 <br>
@@ -24,8 +25,7 @@ header:
 intro: 
   - excerpt: 'WHEN: **20 May 2019** To **23 May 2019** <br> WHERE: **KTH - Royal Institute of Technology, Stockholm, Sweden**'
 feature_row:
-  - image_path: assets/images/programs.png
-    width: 50%
+  - image_path: assets/images/program.png
     alt: "Program"
     title: "Program"
     excerpt: "Details about the program of the summer school."
