@@ -1,17 +1,17 @@
 ---
 layout: splash
 author_profile: true
-excerpt: "* Game technologies
+excerpt: "Game technologies
 <br>
-* Character animation and perception
+Character animation and perception
 <br>
-* Mobile and multi-agent systems
+Mobile and multi-agent systems
 <br>
-* Virtual and augmented reality
+Virtual and augmented reality
 <br>
-* Project design and prototyping
+Project design and prototyping
 <br>
-+ Blog and presentation, ethics, gender"
+Blog and presentation, ethics, gender"
 
 header:
   overlay_image: /assets/images/kth_banner.png
