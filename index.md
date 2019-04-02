@@ -1,7 +1,7 @@
 ---
 layout: splash
 author_profile: true
-excerpt: "
+excerpt: "<span style=color:white;>
 
 
 - Game technologies
@@ -17,8 +17,9 @@ excerpt: "
 
 
 - Project design and prototyping
-<br>
-+ blog and presentation, ethics, gender"
+
+
+- Also, blog and presentation, ethics, gender</span>"
 
 header:
   overlay_image: /assets/images/kth_banner.png
