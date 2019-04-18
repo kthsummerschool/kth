@@ -56,8 +56,12 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-  <img src='/assets/images/euflag.png' width='100'> This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 765955.
-
+feature_row3:
+  - image_path: /assets/images/euflag.png
+    alt: "ANIMATAS"
+    title: "ANIMATAS"
+    excerpt: 'This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 765955.'
+  
 ---
 
 {% include feature_row id="intro" type="center" %}
