@@ -55,9 +55,9 @@ feature_row2:
     url: "http://www.animatas.eu/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-<div>
+
   <img src="/assets/images/euflag.png" width="100"> This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 765955.
-</div>
+
 ---
 
 {% include feature_row id="intro" type="center" %}
