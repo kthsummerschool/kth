@@ -14,7 +14,6 @@ layout: splash
 **Stockholm metro map**
 <br />
 Stockholm metro map is depicted in the following image.
-
 <img src="/assets/images/metro.jpg" alt="metro map">
 
 
