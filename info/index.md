@@ -10,7 +10,6 @@ layout: splash
 <br />
 **+46 72 730 8044**: Maha Elgarf
 <br />
-<br />
 
 **Stockholm metro map**
 <br />
