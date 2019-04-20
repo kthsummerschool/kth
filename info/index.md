@@ -1,5 +1,6 @@
 ---
 title: Information
+layout: splash
 ---
 **Contact details:**
 
