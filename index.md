@@ -56,6 +56,13 @@ feature_row2:
     url: "http://www.animatas.eu/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: /assets/images/info.png
+    alt: "More information"
+    title: "More information"
+    excerpt: 'More information and contact details can be found here.'
+    url: "/info/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/info.png
     alt: "More information"
@@ -70,6 +77,6 @@ feature_row3:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row id="feature_row2" %}
 
 {% include feature_row id="feature_row3" type="center" %}
