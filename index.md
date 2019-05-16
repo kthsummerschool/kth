@@ -64,6 +64,21 @@ feature_row3:
     url: "/info/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: /assets/images/speakers.png
+    #image_caption: "Invited speakers"
+    alt: "Invited speakers"
+    title: "Invited speakers"
+    excerpt: "List of the invited speakers and their talks."
+    url: "/speakers/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/venue.png
+    alt: "Venue"
+    title: "Venue"
+    excerpt: "Information about the places and how you can reach them."
+    url: "/venue/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
