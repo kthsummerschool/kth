@@ -72,11 +72,11 @@ feature_row3:
     url: "/detailedSchedule/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/venue.png
+  - image_path: /assets/images/software.png
     alt: "Software requiremnets"
     title: "Software requiremnets"
     excerpt: "The list of recommended softwares, plug-ins and packages which is better to be installed beofre attending the summer school."
-    url: "/venue/"
+    url: "/software/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
