@@ -47,7 +47,7 @@ feature_row:
     url: "/venue/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row2:
   - image_path: /assets/images/software.png
     alt: "Software requiremnets"
     title: "Software requiremnets"
@@ -70,7 +70,7 @@ feature_row3:
     url: "/info/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row2:
+feature_row3:
   - image_path: /assets/images/animatas-logo-eu.png
     alt: "ANIMATAS"
     title: "ANIMATAS"
@@ -85,6 +85,6 @@ feature_row2:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row id="feature_row2" %}
 
-{% include feature_row id="feature_row3" %}
+{% include feature_row id="feature_row3" type="center" %}
