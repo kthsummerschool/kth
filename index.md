@@ -75,7 +75,7 @@ feature_row3:
   - image_path: /assets/images/software.png
     alt: "Software requiremnets"
     title: "Software requiremnets"
-    excerpt: "The list of recommended softwares, plug-ins and packages which are better to be installed before attending the summer school."
+    excerpt: "List of recommended softwares, plug-ins and packages which are better to be installed before attending the summer school."
     url: "/software/"
     btn_label: "Read More"
     btn_class: "btn--primary"
