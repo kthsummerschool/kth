@@ -57,11 +57,11 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/info.png
-    alt: "More information"
-    title: "More information"
-    excerpt: 'More information and contact details can be found here.'
-    url: "/info/"
+  - image_path: /assets/images/software.png
+    alt: "Software requiremnets"
+    title: "Software requiremnets"
+    excerpt: "List of recommended softwares, plug-ins and packages which are better to be installed before attending the summer school."
+    url: "/software/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/detailSchedule.png
@@ -72,11 +72,11 @@ feature_row3:
     url: "/detailedSchedule/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/software.png
-    alt: "Software requiremnets"
-    title: "Software requiremnets"
-    excerpt: "List of recommended softwares, plug-ins and packages which are better to be installed before attending the summer school."
-    url: "/software/"
+  - image_path: /assets/images/info.png
+    alt: "More information"
+    title: "More information"
+    excerpt: 'More information and contact details can be found here.'
+    url: "/info/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
