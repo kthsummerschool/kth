@@ -6,6 +6,7 @@ Here you can find the list of softwares, packages or plug-ins which which are be
 <br />
 ## Requirements for the Activity 1
 <br />
+
 ### Platform for Situated Intelligence (PSI) 
 Download and install it from the following link.
 <br />
