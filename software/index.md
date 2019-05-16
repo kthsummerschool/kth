@@ -29,9 +29,9 @@ Download and install "**_Jupyter notebook_**" on your machine. The easiest way t
 <a href="https://jupyter.readthedocs.io/en/latest/install.html" target="_blank">Jupyter notebook</a>
 <br />
 
-**Requirements for the Activity 5**
+## Requirements for the Activity 5
 Nothing more than being on time at the PMIL. 
 
+## Requirements for the Activity 6
 <br />
-**Requirements for the Activity 6**
-<br />
+TBA.
