@@ -23,10 +23,12 @@ Download and install _Unity 2018.2.16_ from the following link.
 <a href="https://unity3d.com/get-unity/download/archive" target="_blank">Unity 2018.2.16</a>
 <br />
 
-**Requirements for the Activity 4**
+## Requirements for the Activity 4
+Download and install _Jupyter notebook_ on your machine. The easiest way to install Jupyter is through _Anaconda_. You can find the installation guide in the following web-page.
+<br />
+<a href="https://jupyter.readthedocs.io/en/latest/install.html" target="_blank">Jupyter notebook</a>
 <br />
 
-<br />
 **Requirements for the Activity 5**
 <br />
 
