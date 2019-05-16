@@ -64,7 +64,7 @@ feature_row3:
     url: "/info/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/speakers.png
+  - image_path: /assets/images/detailSchedule.png
     #image_caption: "Detailed Schedule"
     alt: "Detailed Schedule"
     title: "Detailed Schedule"
