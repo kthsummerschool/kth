@@ -49,8 +49,8 @@ feature_row:
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/software.png
-    alt: "Software requiremnets"
-    title: "Software requiremnets"
+    alt: "Software requirements"
+    title: "Software requirements"
     excerpt: "List of recommended softwares, plug-ins and packages which are better to be installed before attending the summer school."
     url: "/software/"
     btn_label: "Read More"
