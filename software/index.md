@@ -11,11 +11,12 @@ Download and install it from the following link.
 <a href="https://github.com/microsoft/psi" target="_blank">PSI github page</a>
 <br />
 
+## Requirements for the Activity 2
+Download and install __Unity 2018.2.16__ from the following link.
 <br />
-**Requirements for the Activity 2**
+<a href="https://unity3d.com/get-unity/download/archive" target="_blank">Unity 2018.2.16</a>
 <br />
-
-<br />
+ 
 **Requirements for the Activity 3**
 <br />
 
