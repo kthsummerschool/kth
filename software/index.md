@@ -8,7 +8,7 @@ Here you can find the list of softwares, packages or plug-ins which which are be
 ### Platform for Situated Intelligence (PSI) 
 Download and install it from the following link.
 <br />
-https://github.com/microsoft/psi
+<a href="https://github.com/microsoft/psi" target="_blank">PSI github page</a>
 <br />
 
 <br />
