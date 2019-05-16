@@ -47,15 +47,6 @@ feature_row:
     url: "/venue/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row2:
-  - image_path: /assets/images/animatas-logo-eu.png
-    alt: "ANIMATAS"
-    title: "ANIMATAS"
-    excerpt: 'ANIMATAS is a MSCA – Marie Skłodowska-Curie Actions project that aims to give researchers the necessary skills and international experience for a successful career either in the public or the private sector. The project is an Innovative Training Network (MSCA ITN) implemented by a partnership high profile universities, research institutions and industrial research partners that are located in 8 different countries.
-    <br /><br />This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 765955.'
-    url: "http://www.animatas.eu/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/software.png
     alt: "Software requiremnets"
@@ -77,6 +68,15 @@ feature_row3:
     title: "More information"
     excerpt: 'More information and contact details can be found here.'
     url: "/info/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row2:
+  - image_path: /assets/images/animatas-logo-eu.png
+    alt: "ANIMATAS"
+    title: "ANIMATAS"
+    excerpt: 'ANIMATAS is a MSCA – Marie Skłodowska-Curie Actions project that aims to give researchers the necessary skills and international experience for a successful career either in the public or the private sector. The project is an Innovative Training Network (MSCA ITN) implemented by a partnership high profile universities, research institutions and industrial research partners that are located in 8 different countries.
+    <br /><br />This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 765955.'
+    url: "http://www.animatas.eu/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
