@@ -34,4 +34,4 @@ Download and install "**_Jupyter notebook_**" on your machine. The easiest way t
 Nothing more than being on time at the PMIL. 
 
 ## Requirements for the Activity 6
-**_Furhat Robotics_** will send out instructions how to download their SDK via email. So please check your emails and follow their instructions. If you have any technical issues contact _Furhat Robotics_ simply by replying their emails so they can resolve them beforehand.
+**_Furhat Robotics_** will send out instructions how to download their SDK via email. So please check your emails and follow their instructions. If you have any technical issues contact _Furhat Robotics_ simply by replying to their emails so they can resolve them beforehand.
