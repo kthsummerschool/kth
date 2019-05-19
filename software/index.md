@@ -17,6 +17,7 @@ Download and install "**_Unity 2018.2.16f1_**" from the following link.
 <br />
 <a href="https://unity3d.com/get-unity/download/archive" target="_blank">Unity 2018.2.16f1</a>
 <br />
+
 Also check the following introduction articles about Unity.
 <br />
 <a href="https://kaikaixiaoxian.wordpress.com/2019/01/20/unity-introduction-1/" target="_blank">Article 1</a>
@@ -30,7 +31,7 @@ Download and install "**_Unity 2018.2.16f1_**" from the following link.
 <a href="https://unity3d.com/get-unity/download/archive" target="_blank">Unity 2018.2.16f1</a>
 <br />
 
-Also check Mixamo characters and animations from the following website.
+Also check _Mixamo_ characters and animations from the following website.
 <br />
 <a href="https://www.mixamo.com/" target="_blank">https://www.mixamo.com/</a>
 <br />
