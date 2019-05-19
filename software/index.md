@@ -24,8 +24,10 @@ Download and install "**_Unity 2018.2.16f1_**" from the following link.
 <a href="https://unity3d.com/get-unity/download/archive" target="_blank">Unity 2018.2.16f1</a>
 <br />
 
-- Characters and animations: https://www.mixamo.com/
-- ff
+Also check Mixamo characters and animations from the following website
+<a href="https://www.mixamo.com/" target="_blank">https://www.mixamo.com/</a>
+<br />
+
 ## Requirements for the Activity 4
 Download and install "**_Jupyter notebook_**" on your machine. The easiest way to install Jupyter notebook is through _Anaconda_. You can find the installation guide in the following webpage.
 <br />
