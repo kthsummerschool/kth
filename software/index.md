@@ -4,7 +4,6 @@ layout: splash
 ---
 <br />
 Here you can find the list of softwares, packages or plug-ins which which are better to be installed before attending the summer school.
-<br />
 
 ## Requirements for the Activity 1
 ### Platform for Situated Intelligence (PSI) 
