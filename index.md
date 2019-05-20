@@ -23,7 +23,7 @@ header:
   #    url: "https://www.kth.se/en"
 
 intro: 
-  - excerpt: '<a href="https://kthsummerschool.github.io/detailedSchedule/" target="_blank">Our schedule for 21 May has been changed! Please check the detailed schedule for the newer version.</a> <br />WHEN: **20 May 2019** To **23 May 2019** <br> WHERE: **KTH - Royal Institute of Technology, Stockholm, Sweden**'
+  - excerpt: '<a href="https://kthsummerschool.github.io/detailedSchedule/" target="_blank">Our schedule for 21 May has been changed! Please check the detailed schedule for the newer version.</a> <br /><br />WHEN: **20 May 2019** To **23 May 2019** <br> WHERE: **KTH - Royal Institute of Technology, Stockholm, Sweden**'
 feature_row:
   - image_path: assets/images/program.png
     alt: "Program"
