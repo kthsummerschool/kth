@@ -6,9 +6,9 @@ layout: splash
 <br />
 112 : emergency
 <br />
-+46 72 731 7268: Sahba Zojaji
+Sahba Zojaji: <a href="mailto:zojaji@kth.se?subject=KTH summer school webpage">Send an Email</a>
 <br />
-+46 72 730 8044: Maha Elgarf
+Maha Elgarf: <a href="mailto:mahaeg@kth.se?subject=KTH summer school webpage">Send an Email</a>
 <br />
 
 **Stockholm metro map**
