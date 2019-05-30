@@ -4,7 +4,7 @@ layout: splash
 ---
 **Contact details**
 <br />
-112 : emergency
+Emergency: 112
 <br />
 Sahba Zojaji: <a href="mailto:zojaji@kth.se?subject=KTH summer school webpage">Send an Email</a>
 <br />
